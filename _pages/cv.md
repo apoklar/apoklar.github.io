@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Bachelor of Science in Computer Science, Univeristy of Houston, 2025 (expected)
+* Bachelor of Science in Computer Science, University of Houston, 2025 (expected)
 * Associate of Science, Lonestar College, 2018
 
 Work experience
@@ -28,7 +28,7 @@ Skills
 ======
 * C++
 * Python
-  * Sub-skill 2.1
+  # can add *tab to add subskill
 * HTML/CSS
 * Javascript
 * Node.js
