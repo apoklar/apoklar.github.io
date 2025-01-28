@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-About Me
 
 Computer Science student at the University of Houston with an Associates of Science. Graduate of the coding bootcamp from the University of Texas at Austin where a Certificate in Full Stack Web Development was earned.
 
