@@ -28,7 +28,6 @@ Skills
 ======
 * C++
 * Python
-  # can add *tab to add subskill
 * HTML/CSS
 * Javascript
 * Node.js

@@ -27,7 +27,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Houston, TX"
   employer         : "University of Houston"
-  uri              : "cs.uh.edu"
+  uri              : "https://www.uh.edu/nsm/computer-science/"
   email            : "a.poklar@yahoo.com" 
 
   # Academic websites
