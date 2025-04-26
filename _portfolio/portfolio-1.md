@@ -1,6 +1,6 @@
 ---
 title: "OTTR Admin"
-excerpt: "Test  
+excerpt: "An Azure website used for Admins and Managers to return and sign forms to users.  
 <a href='https://www.youtube.com/watch?v=kqkjt9W8pR8' target='_blank'>Video of website</a><br/><img src='/images/ottr.png'>"
 collection: portfolio
 header:
