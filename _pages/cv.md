@@ -32,4 +32,5 @@ Skills
 * Javascript
 * Node.js
 * React
+* Django
 
